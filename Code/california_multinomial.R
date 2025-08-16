@@ -1,3 +1,10 @@
+###########################################################################
+### R code for BML lab experiments from Okamoto et al. (2025) Comms Bio
+### Author: DK Okamoto
+### Last Update 15 August, 2025
+###########################################################################
+
+
 library(dplyr)
 library(tidyr)
 library(gdata)

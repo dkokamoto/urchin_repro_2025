@@ -1,4 +1,9 @@
-### some terrible hastily written code by DKO.  Annotations to follow
+###########################################################################
+### R code for Marna lab experiments from Okamoto et al. (2025) Comms Bio
+### Author: DK Okamoto
+### Last Update 15 August, 2025
+###########################################################################
+
 library(ggplot2)
 library(mgcv)
 library(rstan)

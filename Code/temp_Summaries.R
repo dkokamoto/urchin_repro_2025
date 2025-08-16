@@ -1,8 +1,8 @@
 ###########################################################################
-###  (Sloppy) Script to generate plots and running means for temps
-###  From Quadra, SIO, and Van Damme
+###  Script to generate plots and running means for temps
+###  From Quadra, Ucluelet, Bodega Marine Lab, Santa Barbara, and SIO
 ###  Author D.K. Okamoto
-###  Updated Sept 22, 2021
+###  Last Update Aug 15, 2025
 ###########################################################################
 
 library(ggplot2);library(dplyr);library(lubridate)
